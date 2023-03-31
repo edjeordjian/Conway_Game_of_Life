@@ -10,6 +10,9 @@ gcc conway.c -o conway
 ## Previsualización
 ![alt text](media/example.gif)
 
+## Dato curioso
+https://www.theoremoftheday.org/LogicAndComputerScience/Life/TotDLife.pdf
+
 ## Hecho con
 M-Picco   
 Handerllon   
